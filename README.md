@@ -1,0 +1,5 @@
+![UML drawio](https://github.com/CauaDezidera/bertoti/assets/127250310/fcb8144c-be9f-4537-8ca5-1756081dde71)
+![Specs](https://github.com/CauaDezidera/bertoti/assets/127250310/72986a5c-51dd-45cb-975c-d7eb0dc6c460)
+![Main](https://github.com/CauaDezidera/bertoti/assets/127250310/63dac724-c7d3-4523-9429-fa5b113733cb)
+![Jogador](https://github.com/CauaDezidera/bertoti/assets/127250310/6759194f-8644-4bb0-9252-4b8035959293)
+![Futebol](https://github.com/CauaDezidera/bertoti/assets/127250310/2fbe9fb0-b78b-48b6-8a8f-b340a0d1c97c)
