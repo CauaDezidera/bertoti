@@ -1,0 +1,3 @@
+interface ItemMenu {
+    void mostrarDescricao();
+}
