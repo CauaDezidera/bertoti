@@ -1,5 +1,14 @@
-![UML drawio](https://github.com/CauaDezidera/bertoti/assets/127250310/fcb8144c-be9f-4537-8ca5-1756081dde71)
-![Specs](https://github.com/CauaDezidera/bertoti/assets/127250310/72986a5c-51dd-45cb-975c-d7eb0dc6c460)
-![Main](https://github.com/CauaDezidera/bertoti/assets/127250310/63dac724-c7d3-4523-9429-fa5b113733cb)
-![Jogador](https://github.com/CauaDezidera/bertoti/assets/127250310/6759194f-8644-4bb0-9252-4b8035959293)
-![Futebol](https://github.com/CauaDezidera/bertoti/assets/127250310/2fbe9fb0-b78b-48b6-8a8f-b340a0d1c97c)
+# Strategy
+![UML-Strategy](https://github.com/user-attachments/assets/c24b3ff0-e573-4b54-beb9-4c344e825aae)
+
+# Observer
+![UML-Observer](https://github.com/user-attachments/assets/46e45d5e-ba11-4725-86ff-d749115d45d5)
+
+# Composite
+![UML-Composite](https://github.com/user-attachments/assets/62942b03-0db9-4642-a28b-cf7d89e76155)
+
+# Singleton
+![UML-Singleton](https://github.com/user-attachments/assets/7fffb4f3-b65f-4f3d-9e57-ffe4990444b8)
+
+# Facade
+![UML-Facade](https://github.com/user-attachments/assets/10f241fb-c3f9-4600-b2e6-3233c0c2c7e4) .
